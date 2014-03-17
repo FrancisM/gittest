@@ -3,3 +3,13 @@ git add .\index.html
 git commit -m "added index.html"
 git push
 
+git add -A       //all
+git add *
+git status
+git commit      //opens up a dialog for a full blown message
+git push
+
+
+git pull
+
+escape,colon wq   //to save it
